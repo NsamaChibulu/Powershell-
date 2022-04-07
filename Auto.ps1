@@ -8,3 +8,4 @@ $credential = New-Object System.Management.Automation.PsCredential($UserName, $P
 Login-AzAccount -Credential $credential
 
 # Connect 
+testtinggg
